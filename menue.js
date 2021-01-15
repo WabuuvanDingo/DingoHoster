@@ -24,15 +24,15 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
    ---------------------------------------------*/
 
 
-	this.main_expand_image = '../menue/sample2_main_arrow.gif'
-	this.main_expand_image_hover = '../menue/sample2_main_arrow.gif'
+	this.main_expand_image = 'https://raw.githubusercontent.com/WabuuvanDingo/DingoHoster/main/sample2_main_arrow.gif'
+	this.main_expand_image_hover = 'https://raw.githubusercontent.com/WabuuvanDingo/DingoHoster/main/sample2_main_arrow.gif'
 	this.main_expand_image_width = '16'
 	this.main_expand_image_height = '9'
 	this.main_expand_image_offx = '0'
 	this.main_expand_image_offy = '3'
 
-	/*this.sub_expand_image = '../menue/sample2_sub_arrow.gif'
-	this.sub_expand_image_hover = '../menue/sample2_sub_arrow.gif'
+	/*this.sub_expand_image = 'https://raw.githubusercontent.com/WabuuvanDingo/DingoHoster/main/sample2_sub_arrow.gif'
+	this.sub_expand_image_hover = 'https://raw.githubusercontent.com/WabuuvanDingo/DingoHoster/main/sample2_sub_arrow.gif'
 	this.sub_expand_image_width = '10'
 	this.sub_expand_image_height = '13'
 	this.sub_expand_image_offx = '0'
