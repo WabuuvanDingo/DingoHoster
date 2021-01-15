@@ -1,0 +1,188 @@
+/* 
+EM 
+10px = 0.6em
+12px = 0.76em
+14px = 0.9em
+16px = 1.0em
+18px = 1.12em
+22px = 1.38em
+26px = 1.63em
+*/
+
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+margin-top: 103px;
+}
+a:link {color: #ffdb7d; text-decoration: none;
+}   
+a:visited {color: #ffdb7d; text-decoration: none;
+}
+a:hover {
+	color: #cc0000;
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a.hoerbuch:link {color: #ff0000; font-size: 0.65em; font-family: Verdana, Arial; text-decoration: underline;
+}   
+a.hoerbuch:visited {color: #ff0000; font-size: 0.65em; font-family: Verdana, Arial; text-decoration: underline;
+}
+a.hoerbuch:hover {color: #000000; font-size: 0.65em; font-family: Verdana, Arial; text-decoration: none;
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	font-style: normal;
+	font-weight: bold;
+	color: #160462;
+	text-decoration: none;
+}	
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;	
+}
+
+a.cd:link {
+	text-decoration: none;
+	color: #0000bb;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+a.cd:visited {
+	text-decoration: none;
+	color: #0000bb;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+a.cd:hover {
+	text-decoration: underline;
+	color: #bb0000;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+a.cd:active {
+	text-decoration: none;
+	color: #bb0000;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	
+}
+
+a.shop:link {
+	text-decoration: none;
+	color: #0000bb;
+	font-size: 11px;
+	font-weight: bold;
+}
+a.shop:visited {
+	text-decoration: none;
+	color: #0000bb;
+	font-size: 11px;
+	font-weight: bold;
+}
+a.shop:hover {
+	text-decoration: underline;
+	color: #bb0000;
+	font-size: 11px;
+	font-weight: bold;
+}
+a.shop:active {
+	text-decoration: none;
+	color: #bb0000;
+	font-size: 11px;
+	font-weight: bold;	
+	
+}
+
+.bodytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	font-style: normal;
+	line-height: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.laufzeit {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: italic;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.text-englisch {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #ffdb7d;
+	font-style: normal;
+	font-weight: bold;
+    text-decoration: none;
+	
+
+}
+.bg-rot {
+	background: #cc0000;
+}
+.bg-gelbverlauf {
+	background: url(https://web.archive.org/web/20200330125257im_/http://www.dingo-pictures.de/bilder/bg-gelb.gif) repeat;
+
+
+}
+
+.bg-gelbverlauf1 {
+	background-color: #FFDD85;
+
+}		
+
+
+.navi-unten {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.6em;
+	color: #c1ada0;
+}
+.haftung {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.6em;
+	font-style: normal;
+	color: #000000;
+}
+#menu-neu {
+	position: relative;
+	height: 100px;
+	width: 671px;
+	background-color: #CC0000;
+	/* [disabled]text-align: center; */
+	padding-left: 29px;
+}
+
+/*
+     FILE ARCHIVED ON 12:52:57 Mar 30, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:08:27 Jan 15, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 0.852
+  LoadShardBlock: 81.405 (3)
+  exclusion.robots: 0.217
+  captures_list: 104.16
+  load_resource: 134.493 (2)
+  esindex: 0.016
+  exclusion.robots.policy: 0.201
+  CDXLines.iter: 17.79 (3)
+  PetaboxLoader3.datanode: 103.144 (5)
+  PetaboxLoader3.resolve: 104.306 (3)
+*/
