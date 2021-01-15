@@ -49,7 +49,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
 	//Main Menu
 
-	this.main_container_styles = "background-image:url(../menue/sample2_bg.gif); border-style:solid; border-color:#111111; border-width:1px; padding:0px; "
+	this.main_container_styles = "background-image:url(https://raw.githubusercontent.com/WabuuvanDingo/DingoHoster/main/sample2_bg.gif); border-style:solid; border-color:#111111; border-width:1px; padding:0px; "
 	this.main_item_styles = "color:#333333; text-align:center; font-family:Verdana; font-size:12px; font-weight:bold; font-style:normal; text-decoration:none; border-style:none; border-color:#000000; border-width:0px; padding:2px 5px; "
 	this.main_item_hover_styles = "color:#cc0000; "
 	this.main_item_active_styles = "text-decoration:none; "
